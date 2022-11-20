@@ -1,0 +1,4 @@
+python-telegram-bot~=13.14
+Pillow~=9.3.0
+numpy~=1.23.5
+dlib~=19.24.0
